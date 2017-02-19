@@ -1,6 +1,6 @@
-#Bericht "Survival of the Smartest"
+    #Bericht "Survival of the Smartest"
 
-geschreiben von Kadett Aldous Wagner mit vielen Korrekturen und Anmerkungen von Mac Murphy, Fredo Boinsson, Adrian Paulsen & (hat namen nicht auf die Liste geschrieben)
+geschreiben von Kadett Aldous Wagner mit vielen Korrekturen und Anmerkungen von Mac Murphy, Fredo Boinsson, Adrian Paulsen & Maja Mortensa
 
 ###Phase 0 Mitnehemen von Gegegenständen
 
@@ -21,7 +21,7 @@ Gründe für die Auswahl:
 1 & 2) Navigation : Ziel ist, den Aussenposten zu finden. Dies sind die Mittel dazu.
 4 & 5) Bewaffung / Jagd / feuermachen -- Für die Handphaser spricht, das zwei mitgenommen werden können & eine erheblich grössere Schusszahl.
 6 & 7) Überwinden von Hindernissen: eine(r) kann mit dem Klettergeschirr vorausklettern und die andernen können mit den Seilen nachkommen.
-3) wissenschaftlicher Tricorder: prüfung des Wassers unterwegs und hilfe bei der Identfikation von essbaren Pflanzen. Ausserdem traut sich Kadett ... mit medizinischen Fach auch zu, auftretende Notfälle ohne medizinischen Tricorder zu behandeln.
+3) wissenschaftlicher Tricorder: prüfung des Wassers unterwegs und hilfe bei der Identfikation von essbaren Pflanzen. Ausserdem traut sich Kadett Mortensa mit medizinischen Fach auch zu, auftretende Notfälle ohne medizinischen Tricorder zu behandeln.
 8) Schutz vor Regen und Konstruktion (siehe 9) eines (Schutz-)daches. Auch: auffangen von Regen (siehe Phase 2, punkt 10)
 9) eine Axt ist ein sehr flexibles werkzeug, nicht nur zum hacken (auch zB hammer,hebel)
 10) um unterwegs und zwischen Bächen und Flüssen etwas zu trinken zu haben. Bei den hohen durchschnittstemperaturen tagüber nützlich selbst bei vielen wasserquellen. Mitnahmeaufgefangenen Wassers (siehe 8)
@@ -43,7 +43,7 @@ Am nächsten Tag kommen wir an einen Fluss. Wasser ist erstmal sichergestellt. A
 
 ### Phase 4 Vor uns die Sintflut
 Am nächten Morgen sind die Einegborenen verschwunden und können in paradisischer Unschuld weiterexistieren. Und wirkönne die Furt überqueren.
-Ein schreckliches Unwetter zieht herauf. Kadetten Wagner, Paulsen und ... beschliessen auf einen Baum zu klettern und sich dort festzubinden, denn die Bäume scheinen auch schon mehrere Unwtter überstanden zu haben. Kadetten Murphy und Boinsen denken aber das es bei Gewitter Bäume zu meiden gilt und wollen am Boden verbleiben und in einem Gebüsch Schutz suchen. Eine einheitliche Strategie wird nicht gefunden, aber beide seiten sind zufrieden darin übereinzustimmen nicht übereinzustimmen. Bevor wir herausfinden können, welcher der reichlich imrovisierten Pläne der bessere ist,kommt es zu ...
+Ein schreckliches Unwetter zieht herauf. Kadetten Wagner, Paulsen und Mortensa beschliessen auf einen Baum zu klettern und sich dort festzubinden, denn die Bäume scheinen auch schon mehrere Unwtter überstanden zu haben. Kadetten Murphy und Boinsen denken aber das es bei Gewitter Bäume zu meiden gilt und wollen am Boden verbleiben und in einem Gebüsch Schutz suchen. Eine einheitliche Strategie wird nicht gefunden, aber beide seiten sind zufrieden darin übereinzustimmen nicht übereinzustimmen. Bevor wir herausfinden können, welcher der reichlich imrovisierten Pläne der bessere ist,kommt es zu ...
 
 ### Phase 5 Deus ex Machina
 Wir werden errettet.   
